@@ -1,4 +1,7 @@
 .about-container{
-    background-color: rgb(3, 225, 225);
     color: blueviolet;
+    margin: 0px;
+    padding: 0px;
+    background-color: cadetblue;
+    min-height: 100vh;
 }
