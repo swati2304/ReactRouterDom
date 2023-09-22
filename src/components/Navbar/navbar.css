@@ -1,0 +1,16 @@
+.navbar-container{
+    background-color: black;
+    width: 500vh;
+    height: 80px;
+    padding: 10px;
+}
+.nav-brand{
+    display: inline-block;
+    margin-right: 20px;
+    color: blueviolet;
+}
+.nav-menu{
+    color: blueviolet;
+    font-size: 20px;
+    margin: 5px 40px;
+}
